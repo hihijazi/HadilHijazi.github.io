@@ -21,37 +21,37 @@ function Blog() {
         <div id="blogs-container">
           <div className='blog'>
             <div id="blog-text">
-              <p>Oct 13</p>
-              <p id="blog-title">SQLAlchemy Relationship Status: It's Complicated - Backref vs. Back_populates</p>
-              <p>As a new programmer, the use of libraries can be intimidating, and when it comes to managing databases in your Python projects, the...</p>
-              <a href="https://medium.com/@kimberlymlove15/sqlalchemy-relationship-status-its-complicated-backref-vs-back-populates-9eaf07335a13" target='_blank' rel="noreferrer">Read more...</a>
+              <p>Feb 12</p>
+              <p id="blog-title">HTTP Methods GET POST and Retrieving Form Data</p>
+              <p>In the web development world, understanding the fundamental HTTP methods - GET and POST - is...</p>
+              <a href="https://medium.com/@hihijazi/http-methods-get-post-retrieving-form-data-7a5e65055ee7" target='_blank' rel="noreferrer">Read more...</a>
             </div>
             <div id="blog-image">
-              <img src='https://miro.medium.com/v2/format:webp/0*JGmWuZQn8JctfqOf.png' alt={`Thumbnail img for SQLAlchemy Relationship Status blog`}/>
+              <img src='	https://miro.medium.com/v2/resize:fit:1100/format:webp/1*D1TtFF3foybxlHR9M9FmoA.jpeg' alt={`Thumbnail img for HTTP Methods GETPOST and Retrieving Form Data blog`}/>
             </div>
           </div>
 
           <div className='blog'>
             <div id="blog-text">
-              <p>Sept 21</p>
-              <p id="blog-title">Lambda Me This…</p>
-              <p>If you're new to programming like me you'll probably find that as you continue to dive deeper into any language and look at Stack Overflow and other resources to try to help you solve problems, you discover...</p>
-              <a href="https://medium.com/@kimberlymlove15/lambda-me-this-270807e841f8" target='_blank' rel="noreferrer">Read more...</a>
+              <p>Dec 29</p>
+              <p id="blog-title">Props Vs States</p>
+              <p>What is React.js?  React can manage your data and properly render your application when your data changes...</p>
+              <a href="https://medium.com/@hihijazi/props-vs-state-460dfdf9c78f" target='_blank' rel="noreferrer">Read more...</a>
             </div>
             <div id="blog-image">
-              <img src='https://miro.medium.com/v2/format:webp/1*58IXFkGTS2WZK_XIjeR7pg.png' alt={`Thumbnail img for Lambda Me This blog`}/>
+              <img src='https://miro.medium.com/v2/resize:fit:1100/format:webp/1*IGHnqylymreaXLW4fUzPpQ.jpeg' alt={`Thumbnail img for Props Vs States blog`}/>
             </div>
           </div>
 
           <div className='blog'>
             <div id="blog-text">
-              <p>Sept 5</p>
-              <p id="blog-title">Destructuring Destructured</p>
-              <p>When you see a word like destructuring it can be very intimidating, especially when you're first starting out in the coding world. However, once you get the hang of this JavaScript shorthand it can save you...</p>
-              <a href="https://medium.com/@kimberlymlove15/destructuring-destructured-bc724e9a7c6" target='_blank' rel="noreferrer">Read more...</a>
+              <p>Dec 4</p>
+              <p id="blog-title">innerHTML property in JavaScript</p>
+              <p>For the past few weeks, I have been learning about JavaScript in the context of Web Development. JavaScript is a very important programming language for the Web ...</p>
+              <a href="https://medium.com/@hihijazi/innerhtml-property-in-javascript-a82480c0bd21" target='_blank' rel="noreferrer">Read more...</a>
             </div>
             <div id="blog-image">
-              <img src='https://miro.medium.com/v2/format:webp/1*NVF8x6T_t9939oZUI4oswQ.jpeg' alt={`Thumbnail img for Destructuring Destructured blog`}/>
+              <img src='	https://miro.medium.com/v2/resize:fit:568/format:webp/1*zPmHfoU9VCYc725T2vMRBQ.png' alt={`Thumbnail img for innerHTML property in JavaScript blog`}/>
             </div>
           </div>
 
