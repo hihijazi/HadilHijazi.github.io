@@ -1,13 +1,13 @@
 @import './index';
 
 nav.navbar {
-    background-color: $secondaryHeaderFooterColor;
+    background-color: #f7ebf3;
     justify-content: space-between;
     position: fixed;
     top: 0;
     z-index: 5;
     width: 100vw;
-    box-shadow: 5px 5px 10px 5px #ccc;
+    box-shadow: 5px 5px 10px 5px #d7d7d7;
 }
 
 // Large Navbar Styles
@@ -31,12 +31,12 @@ nav.navbar {
 }
 
 // Small NavBar Styles
-#KLlogo {
+#HHlogo {
     margin-left: 50px;
 }
 
-#KLlogo img {
-    width: 75px;
+#HHlogo img {
+    width: 54px;
 }
 
 .navbar-toggler {
@@ -50,11 +50,11 @@ nav.navbar {
 
 .navbar-nav a {
     font-size: 1.2rem;
-    color: $subHeaderFontColor;
+    color: #545151;
 }
 
 .navbar-nav a:hover{
-    color: $darkTertiaryColor !important;
+    color: #313030 !important;
     text-decoration: underline;
 }
 
@@ -83,7 +83,7 @@ nav.navbar {
         font-size: 1rem;
     }
 
-    #KLlogo img {
+    #HHlogo img {
         width: 65px;
     }
 }

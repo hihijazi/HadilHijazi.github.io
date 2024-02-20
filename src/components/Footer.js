@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import "../css/footerStyles.scss"
-import HHlogo from '../images/Hadil-Hijazi-Logo.png'
+import HHlogo from '../images/Hadil-Hijazi-logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope, faFile } from "@fortawesome/free-solid-svg-icons"
