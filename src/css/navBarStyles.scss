@@ -1,7 +1,7 @@
 @import './index';
 
-nav.navbar {
-    background-color: #f7ebf3;
+ nav.navbar {
+    background-color: #fdfdfd;
     justify-content: space-between;
     position: fixed;
     top: 0;
@@ -11,9 +11,9 @@ nav.navbar {
 }
 
 // Large Navbar Styles
-.navbar-nav {
-    margin-right: 150px;
-}
+ .navbar-nav {
+     margin-right: 150px;
+ }
 
 .nav-item a {
     font-size: 1.2rem;
