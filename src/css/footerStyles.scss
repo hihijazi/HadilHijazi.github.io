@@ -1,13 +1,13 @@
 @import './index';
 
 footer {
-    background-color: $secondaryHeaderFooterColor;
+    background-color: #f4eeee;
     height: 100px;
     display: flex;
     justify-content: space-around;
     align-items: center;
     overflow: hidden;
-    color: $subHeaderFontColor;
+    color: #322e2e;
 }
 
 footer p {
@@ -27,7 +27,7 @@ footer div:nth-of-type(2) {
 }
 .social-icons-footer {
     font-size: 1.6rem;
-    color: $subHeaderFontColor;
+    color: #2b2626;
     transition: transform 0.3s ease-in-out;
 }
 

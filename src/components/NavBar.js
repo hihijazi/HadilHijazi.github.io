@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import '../css/navBarStyles.scss'
-import HHlogo from '../images/Hadil-Hijazi-Logo.png'
+import HHlogo from '../images/Hadil-Hijazi-logo.png'
 import LargeNavbar from './LargeNavbar'
 import SmallNavBar from './SmallNavBar'
 
