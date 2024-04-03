@@ -7,7 +7,7 @@ Welcome to my software developer portfolio page! Here you'll be able to:
  - Easily contact me from the Contact Me section via email or a contact form.
 
 ## Live Site
-https://hadilhijazi.onrender.com
+
 
 ## Technologies
 React, JavaScript, CSS, Sass, Python, Flask
