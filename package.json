@@ -1,6 +1,7 @@
 {
     "name": "my-junior-developer-portfolio",
     "version": "0.1.0",
+    "homepage": "https://hihijazi.github.io/hadil-portfolio/",
     "private": true,
     "proxy": "http://127.0.0.1:5555",
     "dependencies": {
