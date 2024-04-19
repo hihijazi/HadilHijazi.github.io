@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hadil-portfolio/static/css/main.daa59a39.css",
-    "main.js": "/hadil-portfolio/static/js/main.a38daf93.js",
+    "main.js": "/hadil-portfolio/static/js/main.6a244388.js",
     "static/js/453.ce0ec7bc.chunk.js": "/hadil-portfolio/static/js/453.ce0ec7bc.chunk.js",
     "static/media/Bookifybooks.png": "/hadil-portfolio/static/media/Bookifybooks.ffa26f601d7a17aa4649.png",
     "static/media/Hadil-Headshot.jpg": "/hadil-portfolio/static/media/Hadil-Headshot.61cf2fc834f5a8089395.jpg",
@@ -23,11 +23,11 @@
     "static/media/command-line.svg": "/hadil-portfolio/static/media/command-line.fc9c362a87bf46371bf4009e46379db9.svg",
     "static/media/javascript.svg": "/hadil-portfolio/static/media/javascript.4e191ced82f7d9fb6e572e1600298643.svg",
     "main.daa59a39.css.map": "/hadil-portfolio/static/css/main.daa59a39.css.map",
-    "main.a38daf93.js.map": "/hadil-portfolio/static/js/main.a38daf93.js.map",
+    "main.6a244388.js.map": "/hadil-portfolio/static/js/main.6a244388.js.map",
     "453.ce0ec7bc.chunk.js.map": "/hadil-portfolio/static/js/453.ce0ec7bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daa59a39.css",
-    "static/js/main.a38daf93.js"
+    "static/js/main.6a244388.js"
   ]
 }
