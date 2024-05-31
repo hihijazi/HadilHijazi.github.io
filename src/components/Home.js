@@ -9,9 +9,9 @@ function Home() {
         <div id="home-text-content">
           <p>Hi, I'm</p>
           <h1>Hadil Hijazi</h1>
-          <p>a Business Analyst </p>
-          { <p>I'm a Business Analyst dedicated to leveraging my extensive experience in accounting, project management, and recent software engineering education to deliver insightful analysis and innovative solutions that drive towards business success.</p>}
-          { <p>I'm a Business Analyst passionate about coding, learning, and seizing opportunities. I believe in technology's power for positive impact and am eager to contribute to your business. </p>}
+          <p>a Full Stack Web Developer </p>
+          {/* { <p>I'm a Business Analyst dedicated to leveraging my extensive experience in accounting, project management, and recent software engineering education to deliver insightful analysis and innovative solutions that drive towards business success.</p>}
+          { <p>I'm a Business Analyst passionate about coding, learning, and seizing opportunities. I believe in technology's power for positive impact and am eager to contribute to your business.  </p>} */}
         </div>
 
         <div id="home-headshot-container">

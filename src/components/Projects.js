@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/projectStyles.scss';
-import CodeCampImage from '../images/CodeCampApp.png';
+import CodeCampImage from '../images/code-camp.png';
 import BookifyBooks from '../images/Bookifybooks.png';
 import HJKGymImage from '../images/HJK-Gym .png';
 import javascriptIcon from '../images/javascript.svg';

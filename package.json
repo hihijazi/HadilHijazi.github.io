@@ -35,14 +35,17 @@
     "eslintConfig": {
         "extends": "react-app",
         "overrides": [
-          {
-            "files": ["**/*.test.js", "**/*.spec.js"],
-            "env": {
-              "jest": true
+            {
+                "files": [
+                    "**/*.test.js",
+                    "**/*.spec.js"
+                ],
+                "env": {
+                    "jest": true
+                }
             }
-          }
         ]
-      },      
+    },
     "browserslist": {
         "production": [
             ">0.2%",
