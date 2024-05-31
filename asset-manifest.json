@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hadil-portfolio/static/css/main.daa59a39.css",
-    "main.js": "/hadil-portfolio/static/js/main.0d97f1ae.js",
+    "main.js": "/hadil-portfolio/static/js/main.d8720253.js",
     "static/js/453.ce0ec7bc.chunk.js": "/hadil-portfolio/static/js/453.ce0ec7bc.chunk.js",
     "static/media/Bookifybooks.png": "/hadil-portfolio/static/media/Bookifybooks.ffa26f601d7a17aa4649.png",
     "static/media/code-camp.png": "/hadil-portfolio/static/media/code-camp.230314ff5ed0bbda2ddb.png",
@@ -25,11 +25,11 @@
     "static/media/command-line.svg": "/hadil-portfolio/static/media/command-line.fc9c362a87bf46371bf4009e46379db9.svg",
     "static/media/javascript.svg": "/hadil-portfolio/static/media/javascript.4e191ced82f7d9fb6e572e1600298643.svg",
     "main.daa59a39.css.map": "/hadil-portfolio/static/css/main.daa59a39.css.map",
-    "main.0d97f1ae.js.map": "/hadil-portfolio/static/js/main.0d97f1ae.js.map",
+    "main.d8720253.js.map": "/hadil-portfolio/static/js/main.d8720253.js.map",
     "453.ce0ec7bc.chunk.js.map": "/hadil-portfolio/static/js/453.ce0ec7bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daa59a39.css",
-    "static/js/main.0d97f1ae.js"
+    "static/js/main.d8720253.js"
   ]
 }
